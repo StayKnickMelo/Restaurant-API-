@@ -1,0 +1,50 @@
+[
+	{
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"description": "Wide variety of meals including sea-food, lunch, dinner special menu",
+		"serviceType": "Buffet Service",
+		"seatingCapacity": 200,
+		"eventsBooking": true,
+		"bookingRequired": false,
+		"veganMenu": true,
+		"kidsFriendly": true,
+		"restaurant": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"description": "High-end restaurant with full service provided by our exclusive master chef and professional waiters",
+		"serviceType": "High-end restaurant",
+		"eventsBooking": true,
+		"bookingRequired": true,
+		"veganMenu": true,
+		"kidsFriendly": false,
+		"seatingCapacity": 100,
+		"restaurant": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be045"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"description": "Cozy family cafe where you can enjoy time spending with your loved ones",
+		"serviceType": "Cafe",
+		"eventsBooking": true,
+		"bookingRequired": false,
+		"veganMenu": true,
+		"kidsFriendly": true,
+		"seatingCapacity": 50,
+		"restaurant": "5d725a037b292f5f8ceff787",
+		"user": "5d7a514b5d2c12c7449be046"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"description":"Enjoy different meals offers, chefs special, business luch ",
+		"serviceType": "Buffet Service",
+		"eventsBooking": true,
+		"veganMenu": true,
+		"bookingRequired": true,
+		"kidsFriendly": true,
+		"seatingCapacity": 100,
+		"restaurant": "5d725a1b7b292f5f8ceff788",
+		"user": "5d7a514b5d2c12c7449be046"
+	}
+]
